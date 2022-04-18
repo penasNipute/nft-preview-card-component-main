@@ -178,6 +178,7 @@ h1:hover
 p span
 {
     cursor: pointer;
+    color: var(--White);
 }
 
 p span:hover
